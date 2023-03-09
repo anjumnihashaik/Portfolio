@@ -18,7 +18,7 @@ $(document).ready(function(){
         $('html').css("scrollBehavior", "auto");
     });
     var typed = new Typed(".typing", {
-        strings: ["Student", "Youtuber",],
+        strings: ["Student", "Youtuber"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
